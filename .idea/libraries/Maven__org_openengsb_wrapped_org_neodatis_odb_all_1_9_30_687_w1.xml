@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.openengsb.wrapped:org.neodatis.odb-all:1.9.30.687.w1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openengsb/wrapped/org.neodatis.odb-all/1.9.30.687.w1/org.neodatis.odb-all-1.9.30.687.w1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openengsb/wrapped/org.neodatis.odb-all/1.9.30.687.w1/org.neodatis.odb-all-1.9.30.687.w1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openengsb/wrapped/org.neodatis.odb-all/1.9.30.687.w1/org.neodatis.odb-all-1.9.30.687.w1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
